@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nandini Awtani</h1>
 <h3 align="center">ECE Student and developer</h3>
 
+<img src="https://media.giphy.com/media/eMJXDJqSOVzQjFJ8Wv/giphy.gif"  align="right" width="230" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandiniawtani11&label=Profile%20views&color=0e75b6&style=flat" alt="nandiniawtani11" /> </p>
 
 
